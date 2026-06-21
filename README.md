@@ -1,4 +1,5 @@
 # 🐺 Gray Wolf Optimizer — Neural Network Visualizer
+**youtube video:  https://youtu.be/lyNSRPqyfZM** 
 
 A beginner-friendly desktop application that shows you **visually and in real time** how the Gray Wolf Optimizer (GWO) trains a neural network — step by step, iteration by iteration.
 
